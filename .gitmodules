@@ -13,3 +13,6 @@
 [submodule "41223108"]
 	path = 41223108
 	url = https://github.com/41223108/wcm2024.git
+[submodule "G8People"]
+	path = G8People
+	url = https://github.com/G8People/wcm2024.git
